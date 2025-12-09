@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Figma Task 1',
+      title: 'Figma Task 1(demo)',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: false,
